@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>setting font color</title>
+</head>
+<body>
+<font color="#ff00ff">this text is in pink</font><br/>
+<font color="red"> text is in red</font><br/>
+<font color="#ff0000">this text red</font><br/>
+<font color="#00ff00">this text is green</font><br/>
+<font color="#000ff">this text is blue</font><br/>
+<font color="#ffff00">this text color is custamized</font><br/>
+</body>
+</html>
+
+
